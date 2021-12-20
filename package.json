@@ -1,9 +1,19 @@
 {
   "name": "react-you",
   "version": "0.1.0",
+  "description": "Uma biblioteca de componentes baseada no Google Material You",
+  "keywords": [
+    "design system",
+    "material design",
+    "material you",
+    "android"
+  ],
   "main": "index.js",
-  "repository": "https://github.com/jonatanlins/react-you",
   "license": "MIT",
+  "private": false,
+  "author": "Jonatan Lins <jonatanlins.com>",
+  "homepage": "https://react-you.jonatanlins.com",
+  "repository": "https://github.com/jonatanlins/react-you",
   "scripts": {
     "storybook": "start-storybook -p 6006",
     "build:storybook": "build-storybook",
